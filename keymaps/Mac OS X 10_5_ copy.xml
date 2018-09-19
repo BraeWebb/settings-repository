@@ -9,6 +9,11 @@
   </action>
   <action id="CloseContent" />
   <action id="FindNext" />
+  <action id="MinimizeCurrentWindow" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="meta alt l" />
+    <keyboard-shortcut first-keystroke="meta m" />
+  </action>
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
