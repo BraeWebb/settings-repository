@@ -6,6 +6,7 @@
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="flex" type="PLAIN_TEXT" />
+      <mapping ext="bib" type="PLAIN_TEXT" />
       <mapping ext="map" type="PLAIN_TEXT" />
       <mapping ext="pl0" type="PLAIN_TEXT" />
       <mapping ext="tex" type="PLAIN_TEXT" />
