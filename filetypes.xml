@@ -9,6 +9,7 @@
       <mapping ext="bib" type="PLAIN_TEXT" />
       <mapping ext="map" type="PLAIN_TEXT" />
       <mapping ext="pl0" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="tex" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
